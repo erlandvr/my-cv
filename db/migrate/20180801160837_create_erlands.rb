@@ -6,6 +6,7 @@ class CreateErlands < ActiveRecord::Migration[5.2]
       t.string :nationality
       t.string :adress
       t.string :mail
+      t.integer :rating
 
       t.timestamps
     end
