@@ -1,0 +1,2 @@
+class Erland < ApplicationRecord
+end
